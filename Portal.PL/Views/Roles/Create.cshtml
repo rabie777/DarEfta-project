@@ -1,0 +1,38 @@
+﻿@model IdentityRole
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+@section DataTableStyles{
+    <link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet">
+}
+
+<div class="block-header">
+    <h2>Create Role</h2>
+</div>
+
+<form asp-controller="Roles" asp-action="Create" class="form-group" enctype="multipart/form-data">
+
+
+    <div asp-validation-summary="All" class="text-danger font-bold"></div>
+
+
+    <label asp-for="Name">Role Name</label>
+    <input type="text" class="form-control" asp-for="Name" autocomplete="off" />
+    <span asp-validation-for="Name" class="text-danger font-bold"></span>
+    <br />
+    <br />
+
+    <center>
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <input type="reset" value="Cancle" class="btn btn-danger" />
+    </center>
+
+</form>
+
+
+@section JqueryValidation{
+    <script src="~/plugins/jquery-validation/jquery.validate.js"></script>
+    <script src="~/plugins/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

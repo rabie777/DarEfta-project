@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "851f88c8-9e73-4c0d-986c-217f7fbcf889": {
+      "ProjectGuid": "851f88c8-9e73-4c0d-986c-217f7fbcf889",
+      "DisplayName": "Portal.PL",
+      "ColorIndex": 0
+    },
+    "8aa62b49-3637-43b0-bf53-f22604541610": {
+      "ProjectGuid": "8aa62b49-3637-43b0-bf53-f22604541610",
+      "DisplayName": "Portal.DAL",
+      "ColorIndex": 1
+    },
+    "d1e5f868-5bfe-4214-9f67-f017641e77d8": {
+      "ProjectGuid": "d1e5f868-5bfe-4214-9f67-f017641e77d8",
+      "DisplayName": "Portal.BL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "809e08ea-ef34-4037-9c57-7524136860f5": {
+      "ProjectGuid": "809e08ea-ef34-4037-9c57-7524136860f5",
+      "DisplayName": "Portal.APIs",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

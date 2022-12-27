@@ -1,0 +1,165 @@
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 12\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\bin\Debug\net6.0\Portal.BL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\bin\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\bin\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\bin\Debug\net6.0\Portal.BL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\ref\Portal.BL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 14\App\Portal.BL\obj\Debug\net6.0\Portal.BL.pdb

@@ -1,0 +1,37 @@
+﻿@model ApplicationUser
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<div class="block-header">
+    <h2>Are you sure to delete Delete : @Model.UserName  </h2>
+</div>
+
+@section DataTableStyles{
+    <link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet">
+}
+
+
+<form asp-controller="Users" asp-action="Delete" class="form-group">
+
+
+
+    <input type="hidden" asp-for="Id" />
+
+    <label asp-for="UserName">User Name</label>
+    <input type="text" class="form-control" asp-for="UserName" readonly />
+    <br />
+
+    <label asp-for="Email">Email</label>
+    <input type="text" class="form-control" asp-for="Email" readonly />
+    <br />
+
+    <center>
+        <input type="submit" value="Delete" class="btn btn-primary" />
+        <a asp-controller="Users" asp-action="Index" class="btn btn-primary">Return</a>
+        <a asp-controller="Users" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+    </center>
+
+</form>

@@ -1,0 +1,119 @@
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\PortalApp\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 4\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 5\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 6\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 8\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 9\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 10\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.deps.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.runtimeconfig.json
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\bin\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\bin\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.AssemblyInfo.cs
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\ref\Portal.DAL.dll
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.pdb
+D:\Rounds\Sharp\R10\Back End\.Net Core\Session_ 13\App\Portal.DAL\obj\Debug\net6.0\Portal.DAL.genruntimeconfig.cache

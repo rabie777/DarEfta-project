@@ -1,0 +1,35 @@
+﻿@model IdentityRole
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+<div class="block-header">
+    <h2>Are you sure to delete Delete : @Model.Name  </h2>
+</div>
+
+@section DataTableStyles{
+    <link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet">
+}
+
+
+<form asp-controller="Roles" asp-action="Delete" class="form-group">
+
+
+
+    <input type="hidden" asp-for="Id" />
+
+    <label asp-for="Name">Role Name</label>
+    <input type="text" class="form-control" asp-for="Name" readonly />
+    <br />
+
+
+
+    <center>
+        <input type="submit" value="Delete" class="btn btn-primary" />
+        <a asp-controller="Roles" asp-action="Index" class="btn btn-primary">Return</a>
+        <a asp-controller="Roles" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning">Update</a>
+    </center>
+
+</form>
